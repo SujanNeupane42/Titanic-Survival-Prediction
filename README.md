@@ -22,7 +22,7 @@ I have used the following Models:
 Furthermore, I have performed Hyperparameter tuning for these models as well to optimize the performance of these models on validation and testing set.
 
 ## Dataset
-I have not included the dataset in the repository. However, you could find the official dataset on [Kagglev](https://www.kaggle.com/c/titanic/data)
+I have not included the dataset in the repository. However, you could find the official dataset on [Kaggle](https://www.kaggle.com/c/titanic/data)
 
 
 In this classification project,  we will use different features like passenger class, sex, age, fare, etc to predict whether a person will survive in titanic or not.
