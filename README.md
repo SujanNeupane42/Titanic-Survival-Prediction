@@ -11,6 +11,15 @@
 
 This is a simple classification project. I have used following python libraries: numpy, matplotlib, seaborn, and sklearn.
 
+I have used the following Models:
+  1. KNeighborsClassifier
+  2. LogisticRegression
+  3. MultinomialNB
+  4. XGBClassifier
+  5. DescisonTreeClassifier
+  6. RandomForestClassifier
+
+Furthermore, I have performed Hyperparameter tuning for these models as well to optimize the performance of these models on validation and testing set.
 
 ## Dataset
 I have not included the dataset in the repository. However, you could find the official dataset on [Kagglev](https://www.kaggle.com/c/titanic/data)
